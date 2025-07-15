@@ -29,8 +29,8 @@
 ### 📦 Instalar dependencias
 
 ```bash
-git clone https://github.com/m10sec/foca-lite.git
-cd foca-lite
+git clone https://github.com/moften/Metadata-Web-Extractor-Foca-Lite.git
+cd Metadata-Web-Extractor-Foca-Lite
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
