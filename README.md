@@ -1,6 +1,6 @@
 # 🕵️‍♂️ FOCA-LITE – Metadata & Passive Recon Toolkit
 
-**FOCA-LITE** es una herramienta de análisis pasivo de metadatos inspirada en la legendaria FOCA de Chema Alonso, pero reimaginada en Python por [m10sec](mailto:m10sec@proton.me). Escanea documentos descargados de fuentes públicas, analiza sus metadatos, y genera reportes HTML/CSV detallados. Ideal para OSINT, pentesting y auditorías digitales.
+**FOCA-LITE** es una herramienta de análisis pasivo de metadatos inspirada en la legendaria FOCA de Chema Alonso, pero reimaginada en Python (sin windows) por [m10sec](mailto:m10sec@proton.me). Escanea documentos descargados de fuentes públicas, analiza sus metadatos, y genera reportes HTML/CSV detallados. Ideal para OSINT, pentesting y auditorías digitales.
 
 ![Banner](docs/banner-focalite.png)
 
@@ -10,9 +10,8 @@
 
 - 🧠 Crawling de documentos públicos (`site:` + `filetype:` + `index of`)
 - 🔍 Análisis profundo de metadatos (PDF, DOCX, XLSX, ZIP, JPG/PNG, TXT, CSV)
-- 🧽 Limpieza segura de metadatos sensibles
+- 🧽 Limpieza segura de metadatos sensibles [Reusando el módulo de mi otra tool de limpieza](https://github.com/moften/Metadata-File-Analizer).
 - 📊 Reportes automáticos en **HTML** y **CSV**
-- 🎨 Banner personalizado y CLI interactiva (con `prompt_toolkit`)
 - 🛡️ Ideal para red teams, OSINT y bug bounty hunters
 
 ---
