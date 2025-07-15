@@ -2,7 +2,7 @@
 
 **FOCA-LITE** es una herramienta de análisis pasivo de metadatos inspirada en la legendaria FOCA de Chema Alonso, pero reimaginada en Python por [m10sec](mailto:m10sec@proton.me). Escanea documentos descargados de fuentes públicas, analiza sus metadatos, y genera reportes HTML/CSV detallados. Ideal para OSINT, pentesting y auditorías digitales.
 
-![Banner](https://raw.githubusercontent.com/yourrepo/banner-focalite.png)
+![Banner](docs/banner-focalite.png)
 
 ---
 
