@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*_cleaned.*
+*_extracted/
+foca_results/
